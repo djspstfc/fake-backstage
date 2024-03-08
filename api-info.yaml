@@ -8,4 +8,4 @@ spec:
   lifecycle: experimental
   owner: user:guest
   definition:
-    text: ./openapi.yaml
+    $text: ./openapi.yaml
