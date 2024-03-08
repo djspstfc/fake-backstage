@@ -12,3 +12,5 @@ spec:
   owner: user:default/guest
   dependsOn: 
     - Component:fake-library
+    providesApis:
+    - fake-api
