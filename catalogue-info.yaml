@@ -8,5 +8,5 @@ metadata:
     - backend
 spec:
   type: service
-  lifecycle: production
-  owner: user:guest
+  lifecycle: experimental
+  owner: user:default/guest
