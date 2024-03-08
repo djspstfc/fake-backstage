@@ -10,4 +10,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: user:default/guest
-  dependsOn: fake-library
+  dependsOn: 
+    - fake-library
