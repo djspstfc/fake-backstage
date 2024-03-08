@@ -11,4 +11,4 @@ spec:
   lifecycle: experimental
   owner: user:default/guest
   dependsOn: 
-    - fake-library
+    - Component:fake-library
