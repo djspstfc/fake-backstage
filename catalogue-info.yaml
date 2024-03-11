@@ -14,3 +14,5 @@ spec:
     - Component:fake-library
   providesApis:
     - fake-api
+  partOf:
+    - fake
