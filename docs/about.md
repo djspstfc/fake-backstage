@@ -1,0 +1,3 @@
+# About Fake
+
+Well, it's fake, innit? Nothing to see here....
