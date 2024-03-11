@@ -2,7 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: fake-backstage
-  description: A totally fake catalogue entry
+  title: Fake Backend
+  description: A totally fake catalogue entry - erroniously called fake-backstage when it should be fake-backend
   tags:
     - python
     - backend
