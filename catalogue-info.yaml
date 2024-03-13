@@ -13,7 +13,7 @@ metadata:
     endoflife.date/products: django@3.2
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: production
   owner: user:default/guest
   dependsOn: 
     - Component:fake-library
